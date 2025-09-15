@@ -31,9 +31,7 @@ Here you’ll find:
 
 ---
 
-## 📈 GitHub Stats  
-![Veman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=veman-chippa&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veman-chippa&layout=compact&theme=tokyonight)  
+
 
 ---
 
