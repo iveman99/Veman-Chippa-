@@ -1,9 +1,8 @@
-
-Veman Chippa 
 # 🌟 Hey there, I’m Veman Chippa!  
 
 Welcome to my corner of GitHub 👋  
-I’m passionate about **Data Science, Cloud Engineering, and Problem Solving**. Currently pursuing my **Master’s in Data Science** with hands-on experience in **Cloud, Databases, and Analytics Tools**.  
+I’m passionate about **Data Science, Cloud Engineering, and Problem Solving**.  
+Currently pursuing my **Master’s in Data Science**, with hands-on experience in **Cloud, Databases, and Analytics Tools**.  
 
 Here you’ll find:  
 - 🚀 Projects I’m building or contributing to  
@@ -17,8 +16,8 @@ Here you’ll find:
 <p align="left">
 <a href="https://www.linkedin.com/in/veman-chippa/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:info.veman99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/veman-chippa"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<a href="https://github.com/iveman99"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>  
 
 ---
 
@@ -31,6 +30,11 @@ Here you’ll find:
 
 ---
 
+## 🚀 Featured Project  
+🔗 [Sales Dashboard](https://github.com/iveman99/Sales-dashboard)  
+A data-driven dashboard showcasing **sales insights and visualization** using modern tools.  
+
+---
 
 
 ---
